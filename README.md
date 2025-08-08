@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👩‍💻 Areeba Adil
+# Areeba Adil
 
-🌐 **DevOps Engineer** | 💡 Passionate about Automation, Cloud Infrastructure, CI/CD, and Observability  
+**DevOps Engineer** | Passionate about Automation, Cloud Infrastructure, CI/CD, and Observability  
 
 ---
 
@@ -19,14 +19,14 @@ I’m especially interested in:
 ---
 ## 💼 DevOps Project Showcase
 
-### 🔧 Provisioned Multi-Tier Environments Using Ansible  
+### Provisioned Multi-Tier Environments Using Ansible  
 - Automated Linux server setup (Web, DB, Load Balancer) using **Ansible**
 - Role-based playbooks to configure **Apache**, **Nginx**, **MySQL**, and custom apps
 - Ensured repeatable, consistent infrastructure provisioning (Dev → Staging → Prod)  
 **Tech Stack:** Ansible, Apache, Nginx, MySQL, Ubuntu, YAML, AWS EC2, IAM, S3, CloudFront
 
 ---
-### ☁️ Deployed 3-Tier Web Applications (Laravel, MERN, Python Apps)  
+### Deployed 3-Tier Web Applications (Laravel, MERN, Python Apps)  
 - Deployed full-stack web apps across **Web–App–DB layers**  
 - Supported deployments for **Laravel**, **MERN**, and **Python** applications  
 - Configured **virtual hosts**, **load balancing**, and **SSL** for production-grade hosting  
@@ -34,7 +34,7 @@ I’m especially interested in:
 
 ---
 
-### 🚀 Built CI/CD Pipelines from Scratch
+### Built CI/CD Pipelines from Scratch
 
 - Developed **end-to-end CI/CD pipelines** using **Jenkins** and **CodePipeline**  
 - Wrote shell scripts to automate build, test, artifact versioning, and deployment stages  
@@ -45,14 +45,14 @@ I’m especially interested in:
 
 ---
 
-### 📦 Dockerized Custom Applications  
+### Dockerized Custom Applications  
 - Containerized apps using **Docker** and managed environments with **Docker Compose**  
 - Designed lightweight, portable containers for AI based project (LLMs, RAG, XGBoost)
 **Tech Stack:** Docker, Docker Compose, GitHub, Ubuntu
 
 ---
 
-### 📊 Centralized Logging with ELK Stack  
+### Centralized Logging with ELK Stack  
 - Shipped logs using **Filebeat** from Apache, MySQL, and system logs  
 - Built **Logstash pipelines** to parse and filter logs efficiently  
 - Visualized metrics and trends using **Kibana dashboards**  
@@ -60,7 +60,7 @@ I’m especially interested in:
 
 ---
 
-### 📂 Automated Backup Strategy  
+### Automated Backup Strategy  
 - Wrote shell scripts for **daily file/database backups**  
 - Enabled **retention policy**, incremental backups, and **logging**  
 - Secured and transferred data between app and remote backup servers  
@@ -70,19 +70,19 @@ I’m especially interested in:
 
 ## 🛠️ Skills Snapshot
 
-### ☁️ Cloud Platforms
+### Cloud Platforms
 - AWS (EC2, S3, IAM, CloudFront, RDS, CloudWatch)
 
-### 📜 Infrastructure as Code (IaC)
+### Infrastructure as Code (IaC)
 - Ansible
 - AWS CloudFormation
   
-### 📊 Monitoring & Logging
+### Monitoring & Logging
 - ELK Stack (Elasticsearch, Logstash, Kibana)
 - Filebeat & Metricbeat
 - Prometheus & Grafana
 
-- ### 🚀 DevOps Tools
+- ### DevOps Tools
 - Git & GitHub
 - Docker & Docker Compose
 - Jenkins
@@ -96,7 +96,7 @@ I’m especially interested in:
 
 ---
 
-## 🚧 Projects & Contributions
+## Projects & Contributions
 
 🔨 *Coming soon...*  
 Stay tuned for open-source contributions and personal projects including:
@@ -109,10 +109,30 @@ Stay tuned for open-source contributions and personal projects including:
 
 ## 🎓 Certifications & Learning
 
-- 🏆 **Deloitte Cyber Security Job Simulation** – Forage  
-- 📘 Continuous learner on platforms like Coursera, GitHub, and YouTube  
+- **Deloitte Cyber Security Job Simulation** – Forage  
+- Continuous learner on platforms like Coursera, GitHub, and YouTube  
 
 ---
+<!-- Cloud Platforms -->
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- Infrastructure as Code -->
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- DevOps Tools -->
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<!-- Monitoring & Logging -->
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 _Thanks for visiting! Let’s connect and build something great together 🚀_
 
