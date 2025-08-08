@@ -15,8 +15,9 @@ I’m especially interested in:
 - 📦 Infrastructure as Code (CloudFormation, Ansible)
 - 🔁 CI/CD automation (CodePipeline, Jenkins)
 - 🔍 Logging and monitoring (ELK Stack, Prometheus, Grafana)
-  
+
 ---
+
 ## 💼 DevOps Project Showcase
 
 ### Provisioned Multi-Tier Environments Using Ansible  
@@ -26,6 +27,7 @@ I’m especially interested in:
 **Tech Stack:** Ansible, Apache, Nginx, MySQL, Ubuntu, YAML, AWS EC2, IAM, S3, CloudFront
 
 ---
+
 ### Deployed 3-Tier Web Applications (Laravel, MERN, Python Apps)  
 - Deployed full-stack web apps across **Web–App–DB layers**  
 - Supported deployments for **Laravel**, **MERN**, and **Python** applications  
@@ -68,27 +70,6 @@ I’m especially interested in:
   
 ---
 
-## 🛠️ Skills Snapshot
-
-### Cloud Platforms
-- AWS (EC2, S3, IAM, CloudFront, RDS, CloudWatch)
-
-### Infrastructure as Code (IaC)
-- Ansible
-- AWS CloudFormation
-  
-### Monitoring & Logging
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- Filebeat & Metricbeat
-- Prometheus & Grafana
-
-- ### DevOps Tools
-- Git & GitHub
-- Docker & Docker Compose
-- Jenkins
-- Ubuntu / Debian-based systems
-- Bash scripting
-
 ### 💬 Soft Skills
 - Problem-solving & critical thinking
 - Team collaboration & communication
@@ -113,6 +94,7 @@ Stay tuned for open-source contributions and personal projects including:
 - Continuous learner on platforms like Coursera, GitHub, and YouTube  
 
 ---
+
 <!-- Cloud Platforms -->
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -130,7 +112,6 @@ Stay tuned for open-source contributions and personal projects including:
 
 <!-- Monitoring & Logging -->
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
